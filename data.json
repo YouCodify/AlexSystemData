@@ -1,5 +1,11 @@
 [
     {
-        "name":"nombre de articulo"
+        "name":"nombre de articulo",
+        "price":20,
+        "descripcion":"Esta es una descripcion",
+        "imgs":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
     }
 ]
