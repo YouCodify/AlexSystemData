@@ -1,0 +1,37 @@
+[
+    {
+        "descripcion":"Esta es una descripcion",
+        "imgs":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+     {
+        "descripcion":"Esta es una descripcion",
+        "img":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+     {
+        "descripcion":"Esta es una descripcion",
+        "img":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+     {
+        "descripcion":"Esta es una descripcion",
+        "img":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+     {
+        "descripcion":"Esta es una descripcion",
+        "img":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    }
+]
